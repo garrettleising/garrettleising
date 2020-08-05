@@ -1,5 +1,7 @@
 ### Hi My name is Garrett!
 
+[![Garrett's github stats](https://github-readme-stats.vercel.app/api?username=garrettleising)](https://github.com/garrettleising/github-readme-stats)
+
 <!--
 **garrettleising/garrettleising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
