@@ -1,4 +1,4 @@
-### Hi My name is Garrett!
+### Hi, I'm Garrett!
 
 ![Garrett's github stats](https://github-readme-stats.vercel.app/api?username=garrettleising&show_icons=true&theme=tokyonight)
 
