@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Garrett!</h1>
+<h1 align="center">Hi 👋 I'm Garrett!</h1>
 
 ```
 - I am a Computer Science student who is passionate about developing applications. 
