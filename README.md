@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Garrett!</h1>
-<p align="center">
+<p align="center">To connect with me,</p>
 <a href="https://www.linkedin.com/in/garrett-leising-501425159/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.garrettleising.net/" target="blank"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
 
