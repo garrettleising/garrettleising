@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Garrett!</h1>
-```
 
 I am a developer who is passionate about developing applications. Technologies I enjoy are Python, JavaScript, Docker, SQL, and Angular. In my freetime I enjoy listening to music, working out, and ricing my linux environment. 
 
-```
 
 - <h4>🔭 Currently working in web applications, competitive coding, data structures and algorithms.</h4>
 - <h4>💻 Willing to contribute in opensource projects.</h4>
