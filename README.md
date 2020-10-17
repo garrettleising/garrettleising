@@ -3,7 +3,7 @@
 ```
 - I am a Computer Science student who is passionate about developing applications. 
 - Technologies I enjoy are Python, JavaScript, Docker, SQL, and Angular. 
-- In my freetime I enjoy listening to music, working out, and ricing my linux environment.
+- In my freetime I enjoy listening to music, working out, and ricing my Linux environment.
 ```
 
 
