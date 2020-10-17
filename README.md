@@ -4,6 +4,8 @@
 <a href="https://github.com/garrettleising" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="garrett-leising" height="30" width="30" /></a>
 </p>
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/)
+
 <!--
 ![Garrett's github stats](https://github-readme-stats.vercel.app/api?username=garrettleising&show_icons=true&theme=tokyonight)
 
