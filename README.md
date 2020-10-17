@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Garrett!</h1>
 I am a developer who is passionate about developing applications. Technologies I enjoy are Python, JavaScript, Docker, SQL, and Angular. In my freetime I enjoy listening to music, working out, and ricing my linux environment. 
 
-- 🔭 Currently working in web applications, competitive coding, data structures and algorithms.
-- 💻 Willing to contribute in opensource projects.
-- 👍 Looking for opportunities to join as a Software Development intern.
+- <h4>🔭 Currently working in web applications, competitive coding, data structures and algorithms.</h4>
+- <h4>💻 Willing to contribute in opensource projects.</h4>
+- <h4>👍 Looking for opportunities to join as a Software Development intern.</h4>
 
-<h3>To connect with me 📫,<h3>
+<h5>To connect with me 📫,</h5>
 <p align="center">
 <a href="https://www.linkedin.com/in/garrett-leising-501425159/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.garrettleising.net/" target="blank"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
