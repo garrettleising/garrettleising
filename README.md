@@ -2,7 +2,7 @@
 
 ```
 - I am a Computer Science student who is passionate about developing applications. 
-- Technologies I am currently enjoying are Python, JavaScript, Docker, SQL, and Angular. 
+- Technologies I am currently enjoying are Python, JavaScript, Docker, and React. 
 - In my freetime I enjoy listening to music, working out, and customizing my Linux environment.
 ```
 
