@@ -8,7 +8,7 @@
 
 
 - <h4>🔭 Currently working in web applications, competitive coding, data structures and algorithms.</h4>
-- <h4>💻 Willing to contribute in opensource projects.</h4>
+- <h4>💻 Contributing to opensource projects.</h4>
 - <h4>👍 Looking for opportunities to join as a Software Development intern.</h4>
 
 <h5>To connect with me 📫,</h5>
