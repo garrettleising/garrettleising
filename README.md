@@ -17,7 +17,6 @@
 <a href="https://www.garrettleising.net/" target="_blank"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
 </p>
 
-![Garrett's github stats](https://github-readme-stats.vercel.app/api?username=garrettleising&show_icons=true&theme=tokyonight)
 <!--
 ![Garrett's github stats](https://github-readme-stats.vercel.app/api?username=garrettleising&show_icons=true&theme=tokyonight)
 
