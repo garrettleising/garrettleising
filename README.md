@@ -14,7 +14,7 @@
 <h5>To connect with me 📫,</h5>
 <p align="center">
 <a href="https://www.linkedin.com/in/garrett-leising-501425159/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.garrettleising.net/" target="_blank"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
+<!-- <a href="https://www.garrettleising.net/" target="_blank"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a> -->
 </p>
 
 <!--
